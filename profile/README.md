@@ -29,13 +29,14 @@
   <img src="https://contrib.rocks/image?repo=donakawa/donakawa-frontend" />
 </a>
 
-<h1> Notion </h1>
+<h1> 문서 </h1>
 <a href="https://sordid-juniper-f46.notion.site/Home-2a67e2186c998091ac5ff94d40bed392">
   🔗 Notion - Donakawa.team
 </a>
 
 <br>
-
-<sub>파트별 자세한 내용은 각 파트별 레포 README에서 확인 가능합니다.</sub>
+<br>
+<br>
+<sub>ℹ️ 파트별 자세한 내용은 각 파트별 레포 README에서 확인 가능합니다.</sub>
 
 
