@@ -29,7 +29,10 @@
   <img src="https://contrib.rocks/image?repo=donakawa/donakawa-frontend" />
 </a>
 
-<h2> Notion </h2>
+<h1> Notion </h1>
+<a href="https://sordid-juniper-f46.notion.site/Home-2a67e2186c998091ac5ff94d40bed392">
+  🔗 Notion - Donakawa.team
+</a>
 
 <br>
 
