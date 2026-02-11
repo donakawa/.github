@@ -9,7 +9,8 @@
 위시리스트에 담긴 상품을 두고 AI와 대화하며 소비의 우선순위를 정하고, 목표 예산에 맞춘 맞춤형 리포트를 받아보세요. <br>
 귀여운 햄스터 캐릭터 '도나'의 변화를 통해 쇼핑의 즐거움은 유지하면서도, 감정에 치우치지 않는 현명한 소비 생활을 시작할 수 있습니다.
 
-<br>
+
+---
 
 ## Stack / Infra
 
@@ -21,7 +22,8 @@
 <!-- Tools Icons -->
 <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,discord" />
 
-<br>
+
+---
 
 ## 팀 도나카와
 
@@ -35,18 +37,19 @@ FRONTEND
 | [<img src="https://github.com/yangyangeeee.png" width="80">](https://github.com/yangyangeeee) | [<img src="https://github.com/juyeonnnn.png" width="80">](https://github.com/juyeonnnn) | [<img src="https://github.com/Hagyeong13.png" width="80">](https://github.com/Hagyeong13) | [<img src="https://github.com/shinhyunwooo.png" width="80">](https://github.com/shinhyunwooo) |
 | :--: | :--: | :--: | :--: |
 
-<br>
-<br>
 
+---
 
 ## 문서
 <a href="https://sordid-juniper-f46.notion.site/Home-2a67e2186c998091ac5ff94d40bed392">
   🔗 Notion - Donakawa.team
 </a>
+<br>
+
+---
 
 <br>
-<br>
-<br>
+
 <sub>ℹ️ 파트별 자세한 내용은 각 파트별 레포 README에서 확인 가능합니다.</sub>
 
 
