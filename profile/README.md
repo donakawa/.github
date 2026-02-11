@@ -10,7 +10,7 @@
 <h2>Stack / Infra</h2>
 
 <!-- Backend / Infra Icons -->
-<img src="https://skillicons.dev/icons?i=nodejs,expressjs,typescript,docker,postgresql,redis,rabbitmq,prisma,aws,vite,react,tailwind,pnpm,vercel" />
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs,typescript,docker,postgresql,redis,prisma,aws,vite,react,tailwind,pnpm,vercel" />
 
 <h2>Tools</h2>
 
