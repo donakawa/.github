@@ -15,7 +15,7 @@
 <h2>Tools</h2>
 
 <!-- Tools Icons -->
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,discord" />
 
 
 
